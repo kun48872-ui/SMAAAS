@@ -1,0 +1,7 @@
+ffmpeg
+fontconfig
+libgl1
+libfontconfig1
+fonts-noto-core
+fonts-noto-ui-core
+libpango1.0-dev

@@ -1,0 +1,8 @@
+gradio
+openai-whisper
+opencv-python
+edge-tts
+pydub
+Pillow
+numpy
+pyidaungsu
